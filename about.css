@@ -456,3 +456,15 @@ footer a {
 footer a:hover{
 	color: #dfdfdf;
 }
+
+@media (max-width: 768px){
+.cores{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.core {
+    width: 50vw;
+    margin-bottom: 1rem;
+}
+}
