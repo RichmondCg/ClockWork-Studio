@@ -433,4 +433,8 @@ footer a:hover{
     .about img {    
         width: 400px;
     }
+    .about-content img{
+        max-width: 300px;
+    }
+    
 }
